@@ -6,3 +6,10 @@ Ada escribió un completo plan donde se describe el algoritmo necesario que perm
 Se denomina algoritmo a un grupo finito de operaciones organizadas de manera lógica y ordenada que permite solucionar un determinado problema. Se trata de una serie de instrucciones o reglas establecidas que, por medio de una sucesión de pasos, permiten arribar a un resultado o solución.
 En la cultura popular, divide y vencerás hace referencia a un refrán que implica resolver un problema difícil, dividiéndolo en partes más simples tantas veces como sea necesario, hasta que la resolución de las partes se torna obvia. La solución del problema principal se construye con las soluciones encontradas.
 En las ciencias de la computación, el término divide y vencerás (DYV) hace referencia a uno de los más importantes paradigmas de diseño algorítmico. El método está basado en la resolución recursiva de un problema dividiéndolo en dos o más subproblemas de igual tipo o similar. El proceso continúa hasta que éstos llegan a ser lo suficientemente sencillos como para que se resuelvan directamente. Al final, las soluciones a cada uno de los subproblemas se combinan para dar una solución al problema original.
+
+
+Gráfica batman: 2*​sqrt(​(‑abs(​abs(​x)-​1))*​abs(​3-​abs(​x))/​((abs(​x)-​1)*​(3-​abs(​x))))*​(1+​abs(​abs(​x)-​3)/​(abs(​x)-​3))*​sqrt(​1-​(x/​7)^​2)+​(5+​0.97*​(abs(​x-​0.5)+​abs(​x+​0.5))-​3*​(abs(​x-​0.75)+​abs(​x+​0.75)))*​(1+​abs(​1-​abs(​x))/​(1-​abs(​x))), (‑3)*​sqrt(​1-​(x/​7)^​2)*​sqrt(​abs(​abs(​x)-​4)/​(abs(​x)-​4)), abs(​x/​2)-​0.0913722*​x^​2-​3+​sqrt(​1-​(abs(​abs(​x)-​2)-​1)^​2), (2.71052+​1.5-​0.5*​abs(​x)-​1.35526*​sqrt(​4-​(abs(​x)-​1)^​2))*​sqrt(​abs(​abs(​x)-​1)/​(abs(​x)-​1))+​0.9
+Gráfica corazón:  5+​(‑sqrt(​1-​x^​2-​(y-​abs(​x))^​2))*​cos(​30*​(1-​x^​2-​(y-​abs(​x))^​2))
+Gráfica flor: 100-3/(sqrt(x^2+y^2))+sin(sqrt(x^2+y^2))+sqrt(200-
+(x^2+y^2)+10*sin(x)+10sin(y))/1000, x is from -15 to 15, y is from -15 to 15, z is from
+90 to 101
